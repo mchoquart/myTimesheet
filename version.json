@@ -1,0 +1,8 @@
+{ "application" : "hcm.mytimesheet",
+  "version" : "1.8.28",
+  "buildNumber" : "18",
+  "buildId" : "2016-10-03_07-54-51",
+  "branch" : "origin/rel-1.8",
+  "revision" : "bd853f0126a63439a2006f1c91dc460f59eea033",
+  "GitURL" : ""
+}

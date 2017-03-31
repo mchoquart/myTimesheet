@@ -1,0 +1,32 @@
+{
+  "run": [
+    {
+      "filePath": "/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": ""
+        }
+      ],
+      "hashParameter": "",
+      "backendSystem": [
+        {
+          "source": "S4",
+          "destinations": "S4"
+        }
+      ],
+      "_metadata": {
+        "id": 9777766,
+        "runnerId": "fiorirunner",
+        "displayName": "Configuration",
+        "lastRunTimeStamp": 1490945464394
+      }
+    }
+  ]
+}
