@@ -1,0 +1,40 @@
+{
+    "_version": "1.0.0",
+    "sap.app": {
+        "_version": "1.0.0",
+        "id": "hcm.mytimesheet",
+        "type": "application",
+        "applicationVersion": {
+            "version": "1.8.28"
+        },
+        "ach": "PA-FIO-TS",
+        "dataSources": {
+            "HCM_TIMESHEET_MAN_SRV": {
+                "uri": "/sap/opu/odata/sap/HCM_TIMESHEET_MAN_SRV/",
+                "settings": {
+                }
+            }
+        }
+    },
+    "sap.ui": {
+        "_version": "1.0.0",
+        "technology": "UI5"
+    },
+    "sap.ui5": {
+        "_version": "1.0.0",
+        "dependencies": {
+            "minUI5Version": "1.28.5",
+            "libs": {
+                "sap.m": {
+                },
+                "sap.me": {
+                },
+                "sap.ca.scfld.md": {
+                }                
+            },
+            "components": {
+                
+            }
+        }
+    }
+}
